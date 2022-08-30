@@ -1,3 +1,15 @@
+1. instead of reading the events from Moralis, we will
+    1. index them with TheGraph
+    2. read from TheGraph
+        
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
