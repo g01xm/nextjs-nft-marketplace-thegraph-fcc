@@ -38,7 +38,10 @@ export default function Home() {
                         })
                     )
                 ) : (
-                    <div>Web3 is Currently Not Enabled!</div>
+                    <div>
+                        <p> Web3 is Currently Not Enabled!</p>
+                        <p> Connect to Rinkeby Test NetWork!</p>
+                    </div>
                 )}
             </div>
         </div>
